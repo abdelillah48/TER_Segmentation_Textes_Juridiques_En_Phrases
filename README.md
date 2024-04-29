@@ -2,7 +2,7 @@
 
 # Dataset de travail - Ségmentation des textes juridiques en phrases 
 
-Ce repository contient le dataset de travail utilisé pour notre projet de recherche sur la ségmentation des textes juridiques en phrases.
+Ce repository contient le dataset de travail utilisé pour notre projet de recherche de la ségmentation des textes juridiques en phrases.
 ## Contenu du dataset
 
 Le dataset est construit à partir des documents juridiques de la Cour Suprême de l'États-Unis. Chaque exemple du dataset comprend les informations suivantes :
