@@ -9,7 +9,7 @@ Le dataset est construit à partir des documents juridiques de la Cour Suprême 
 
 - document :le titre de document
 - content: contient les phrases segmentées de dodument associé.
-- tag: décrit le type de contenu de chaque phrase segmentée dans le documen
+- tag: décrit le type de contenu de chaque phrase segmentée dans le document
 
 ## Structure du repository
 
